@@ -1,0 +1,1 @@
+O número de casos confirmados total diverge (as vezes) do número de casos confirmados quando analisados por mês e faixa etária, pois existem notificação em que o caso é tido como confirmado, mas faltam-se informações como, por exemplo, a data de nascimento do indivíduo que impossibilita o enquadramento da notificação em alguma categoria de faixa etária.
