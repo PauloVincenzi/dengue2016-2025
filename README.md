@@ -1,6 +1,6 @@
 ---
 
-IMPORTANTE !!! Os scripts deste projeto utilizam uma lista chamada bancos_de_dados contendo os caminhos para os arquivos .csv referentes aos dados da dengue entre 2016 e 2025. No entanto, esses caminhos estão atualmente configurados para um diretório específico do computador local do autor. Para que os scripts funcionem corretamente no seu computador, é necessário alterar os caminhos dos arquivos na lista bancos_de_dados para refletirem o local onde os arquivos .csv estão salvos no seu sistema.
+IMPORTANTE !!! Os scripts deste projeto utilizam uma lista chamada bancos_de_dados contendo os caminhos para os arquivos .csv referentes aos dados da dengue entre 2016 e 2025. No entanto, esses caminhos estão atualmente configurados para um diretório específico do computador local do autor. Para que os scripts funcionem corretamente no seu computador, é necessário alterar os caminhos dos arquivos na lista bancos_de_dados para refletirem o local onde os arquivos .csv estão salvos no seu sistema. 
 
 ---
 Introdução
