@@ -8,7 +8,7 @@ Os scripts deste projeto utilizam uma lista chamada bancos_de_dados contendo os 
 
 Análise Estatística da Dengue em São Carlos (2025):
 -
--		- Geração de insights para apoiar a tomada de decisão da Prefeitura Municipal e da 
+	- Geração de insights para apoiar a tomada de decisão da Prefeitura Municipal e da 
 	Vigilância Epidemiológica de São Carlos.
  
 	- Padronização de mais de 80 mil dados de saúde pública (2016–2025);
