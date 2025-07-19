@@ -1,8 +1,30 @@
 ---
 
-IMPORTANTE !!! Os scripts deste projeto utilizam uma lista chamada bancos_de_dados contendo os caminhos para os arquivos .csv referentes aos dados da dengue entre 2016 e 2025. No entanto, esses caminhos estão atualmente configurados para um diretório específico do computador local do autor. Para que os scripts funcionem corretamente no seu computador, é necessário alterar os caminhos dos arquivos na lista bancos_de_dados para refletirem o local onde os arquivos .csv estão salvos no seu sistema.
+IMPORTANTE !!!
+-
+Os scripts deste projeto utilizam uma lista chamada bancos_de_dados contendo os caminhos para os arquivos .csv referentes aos dados da dengue entre 2016 e 2025. No entanto, esses caminhos estão atualmente configurados para um diretório específico do computador local do autor. Para que os scripts funcionem corretamente no seu computador, é necessário alterar os caminhos dos arquivos na lista bancos_de_dados para refletirem o local onde os arquivos .csv estão salvos no seu sistema.
 
 ---
+
+Análise Estatística da Dengue em São Carlos (2025):
+-
+-		- Geração de insights para apoiar a tomada de decisão da Prefeitura Municipal e da 
+	Vigilância Epidemiológica de São Carlos.
+ 
+	- Padronização de mais de 80 mil dados de saúde pública (2016–2025);
+ 
+	- Utilização de Python para organização, limpeza e visualização de dados. Aplicação de 
+	inferência estatística por meio de intervalos de confiança para estimar número de casos, 
+	confirmações e óbitos. Implementação de modelagem preditiva com base em dados 
+	parciais, utilizando o método de bootstrap para aprimorar a robustez das estimativas. 
+
+---
+
+Este projeto foi reutilizado servindo como trabalho acadêmico para a disciplina Introdução a Estatística 1 no ICMC-USP:
+-
+Parte do trabalho:
+-
+
 Introdução
 
 A dengue é uma doença infecciosa causada por um vírus e transmitida, principalmente, pelo mosquito Aedes aegypti. É considerada um grave problema de saúde pública no Brasil, com ciclos epidêmicos que se repetem quase todos os anos, especialmente nos períodos de calor e chuvas. A doença pode se manifestar de forma leve, mas também pode evoluir para formas graves, com risco de morte. O controle da dengue depende fortemente da vigilância epidemiológica, do combate ao mosquito transmissor e do monitoramento constante dos casos notificados. Nesse contexto, a análise estatística de dados parciais e históricos sobre a doença pode auxiliar na estimativa de casos futuros, contribuindo para a prevenção e o planejamento das ações de saúde pública.
